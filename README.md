@@ -5,5 +5,5 @@ A signal hidden layer neural network that takes in coloured anime face images an
 Use Main.m for running the MATLAB codes.
 
 ## Training:
-![](Github_Image/Banner.png)
+![](Github_Image/Banner.PNG)
 
